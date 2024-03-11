@@ -3,3 +3,6 @@
 ```
 print("where is food?")
 ```
+- [ ] Find Human.
+- [ ] Get Pets.
+- [x] Meow.
